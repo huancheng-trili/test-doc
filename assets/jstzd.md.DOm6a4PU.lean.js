@@ -1,0 +1,1 @@
+import{_ as a,c as n,ag as t,o as e}from"./chunks/framework.Dhw7le90.js";const u=JSON.parse('{"title":"jstzd","description":"","frontmatter":{},"headers":[],"relativePath":"jstzd.md","filePath":"jstzd.md"}'),i={name:"jstzd.md"};function o(p,s,l,c,r,d){return e(),n("div",null,s[0]||(s[0]=[t("",24)]))}const _=a(i,[["render",o]]);export{u as __pageData,_ as default};

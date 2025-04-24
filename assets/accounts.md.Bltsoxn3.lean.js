@@ -1,0 +1,1 @@
+import{_ as i,c as a,ag as t,o as n}from"./chunks/framework.Dhw7le90.js";const d=JSON.parse('{"title":"Accounts","description":"","frontmatter":{},"headers":[],"relativePath":"accounts.md","filePath":"accounts.md"}'),e={name:"accounts.md"};function h(o,s,l,c,p,r){return n(),a("div",null,s[0]||(s[0]=[t("",22)]))}const u=i(e,[["render",h]]);export{d as __pageData,u as default};
