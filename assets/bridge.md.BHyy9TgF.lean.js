@@ -1,1 +1,0 @@
-import{_ as i,c as a,ag as t,o as e}from"./chunks/framework.Dhw7le90.js";const c=JSON.parse('{"title":"💸 Asset Bridge","description":"","frontmatter":{},"headers":[],"relativePath":"bridge.md","filePath":"bridge.md"}'),n={name:"bridge.md"};function h(l,s,p,o,d,r){return e(),a("div",null,s[0]||(s[0]=[t("",27)]))}const g=i(n,[["render",h]]);export{c as __pageData,g as default};
