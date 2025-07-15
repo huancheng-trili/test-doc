@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-doc/release/static/css/main.18015436.css",
+    "main.js": "/test-doc/release/static/js/main.b1d1da2c.js",
+    "index.html": "/test-doc/release/index.html",
+    "main.18015436.css.map": "/test-doc/release/static/css/main.18015436.css.map",
+    "main.b1d1da2c.js.map": "/test-doc/release/static/js/main.b1d1da2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18015436.css",
+    "static/js/main.b1d1da2c.js"
+  ]
+}
